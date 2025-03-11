@@ -1,1 +1,7 @@
 jupyterlab>3.0
+numpy
+scipy
+pandas
+patsy
+statsmodels
+matplotlib
